@@ -13,7 +13,7 @@ C++ Software Engineer based in Buenos Aires, Argentina. Currently working as an 
 ### Tech & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,c,cmake,godot,unreal,python,bash,git,github,linux,vscode,vim&perline=7" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,cmake,godot,unreal,python,bash,git,github,linux,vscode,vim&perline=6" />
 </p>
 
 **Languages:** C++ (17 / 20 / 23), C, Python, GLSL
