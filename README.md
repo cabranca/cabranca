@@ -1,16 +1,6 @@
 ## Hi there! I'm Joaquin Cabrera
 C++ Software Engineer based in Buenos Aires, Argentina. Currently working as an Embedded Engineer II at **AMD**, building GPU IP testing frameworks in C++20. Focused on growing into graphics, rendering, and engine programming — and shipping real-time systems that push the GPU.
 
-### GitHub Stats
-<br>
-
-<div align="center">
-  <img height="150em" src="<https://github-readme-stats-sigma-five.vercel.app/api?username=cabranca&show_icons=true&theme=dracula&include_all_commits=true&count_private=true>"/> 
-  <img height="150em" src="<https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=cabranca&layout=compact&langs_count=7&theme=dracula&include_all_commits=true&count_private=true>"/>
-</div>
-
-<br>
-
 ### What I'm Working On
 
 - **Cabrankengine** — custom C++ game engine (OpenGL / Metal4 rendering backends, GLFW, CMake/Premake build).
@@ -38,7 +28,11 @@ C++ Software Engineer based in Buenos Aires, Argentina. Currently working as an 
 
  
 ### Let's connect
-<div align="center">
-  <a href="<https://www.linkedin.com/in/jfc98/>" target="_blank"><img src="<https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white>" target="_blank"></a> 
-  <a href = "<mailto:joaquincabrera98@gmail.com>"><img src="<https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white>" target="_blank"></a>
-</div>
+<p align="left">
+  <a href="https://www.linkedin.com/in/jfc98/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:joaquincabrera98@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
