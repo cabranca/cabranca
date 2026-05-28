@@ -16,9 +16,9 @@ C++ Software Engineer based in Buenos Aires, Argentina. Currently working as an 
   <img src="https://skillicons.dev/icons?i=cpp,c,cmake,godot,unreal,python,bash,git,github,linux,vscode,vim&perline=6" />
 </p>
 
-**Languages:** C++ (17 / 20 / 23), C, Python, GLSL
+**Languages:** C++ (17 / 20 / 23), C, Python, GLSL, Bash, GDScript, JS
 
-**Graphics & GPU:** OpenGL, Metal 4, CUDA, Vulkan (learning), shader programming
+**Graphics & GPU:** OpenGL, Vulkan, Metal 4 (learning), CUDA
 
 **Engines & Build:** Unreal Engine 5, custom engine work, CMake, Premake
 
